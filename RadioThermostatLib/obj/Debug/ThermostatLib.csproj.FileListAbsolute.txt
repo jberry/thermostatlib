@@ -1,0 +1,5 @@
+c:\SourceCode\CSharp\ThermostatLib\obj\Debug\ResolveAssemblyReference.cache
+c:\SourceCode\CSharp\ThermostatLib\bin\Debug\ThermostatLib.dll
+c:\SourceCode\CSharp\ThermostatLib\bin\Debug\ThermostatLib.pdb
+c:\SourceCode\CSharp\ThermostatLib\obj\Debug\ThermostatLib.dll
+c:\SourceCode\CSharp\ThermostatLib\obj\Debug\ThermostatLib.pdb
