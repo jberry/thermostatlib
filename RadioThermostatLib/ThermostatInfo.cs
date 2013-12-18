@@ -76,7 +76,7 @@ namespace ThermostatLib
             }
             result.Override = Convert.ToBoolean(ht["override"]);
             result.Hold = Convert.ToBoolean(ht["hold"]);
-            result.TemporaryHeat = Convert.ToInt32(ht["t_cool"]);
+            result.TemporaryHeat = Convert.ToInt32(ht["t_heat"]);
             result.TemporaryCool = Convert.ToInt32(ht["t_cool"]);
 
 
@@ -99,7 +99,7 @@ namespace ThermostatLib
                     result.FanState = "Off";
                     break;
                 case 1:
-                    result.FanMode = "On";
+                    result.FanState = "On";
                     break;
             }
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostatLib", "RadioThermostatLib.csproj", "{C3429499-D06F-4E20-838F-48E2000C3668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostatDemo", "..\..\DesktopApps\RadioThermostatDemo\RadioThermostatDemo.csproj", "{E238F958-B092-4299-A77C-5B64A51DC0A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioThermostatDemo", "..\RadioThermostatDemo\RadioThermostatDemo.csproj", "{E238F958-B092-4299-A77C-5B64A51DC0A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

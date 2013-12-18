@@ -9,3 +9,14 @@ C:\SourceCode\DesktopApps\RadioThermostatDemo\bin\Debug\ThermostatLib.dll
 C:\SourceCode\DesktopApps\RadioThermostatDemo\bin\Debug\ThermostatLib.pdb
 C:\SourceCode\DesktopApps\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.exe
 C:\SourceCode\DesktopApps\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.exe
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\bin\Debug\RadioThermostatDemo.exe
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\bin\Debug\RadioThermostatDemo.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\bin\Debug\ThermostatLib.dll
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\bin\Debug\ThermostatLib.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.Form1.resources
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.Properties.Resources.resources
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.ThermostatInfo.resources
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatDemo\obj\Debug\RadioThermostatDemo.csproj.GenerateResource.Cache

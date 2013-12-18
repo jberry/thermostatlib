@@ -3,3 +3,8 @@ C:\SourceCode\CSharp\RadioThermostatLib\bin\Debug\ThermostatLib.pdb
 C:\SourceCode\CSharp\RadioThermostatLib\obj\Debug\ResolveAssemblyReference.cache
 C:\SourceCode\CSharp\RadioThermostatLib\obj\Debug\ThermostatLib.dll
 C:\SourceCode\CSharp\RadioThermostatLib\obj\Debug\ThermostatLib.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatLib\bin\Debug\ThermostatLib.dll
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatLib\bin\Debug\ThermostatLib.pdb
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatLib\obj\Debug\ThermostatLib.dll
+E:\Projects\thermostatlib\thermostatlib\RadioThermostatLib\obj\Debug\ThermostatLib.pdb

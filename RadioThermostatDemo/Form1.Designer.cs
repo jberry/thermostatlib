@@ -39,11 +39,12 @@
             this.AutoButton = new System.Windows.Forms.Button();
             this.LoadProgramButton = new System.Windows.Forms.Button();
             this.SetProgramButton = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // InfoButton
             // 
-            this.InfoButton.Location = new System.Drawing.Point(118, 9);
+            this.InfoButton.Location = new System.Drawing.Point(225, 9);
             this.InfoButton.Name = "InfoButton";
             this.InfoButton.Size = new System.Drawing.Size(100, 23);
             this.InfoButton.TabIndex = 0;
@@ -53,11 +54,10 @@
             // 
             // ipText
             // 
-            this.ipText.Location = new System.Drawing.Point(12, 12);
+            this.ipText.Location = new System.Drawing.Point(76, 11);
             this.ipText.Name = "ipText";
             this.ipText.Size = new System.Drawing.Size(100, 20);
             this.ipText.TabIndex = 1;
-            this.ipText.Text = "192.168.1.106";
             // 
             // SetLedButton
             // 
@@ -149,11 +149,21 @@
             this.SetProgramButton.UseVisualStyleBackColor = true;
             this.SetProgramButton.Click += new System.EventHandler(this.SetProgramButton_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 14);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(58, 13);
+            this.label1.TabIndex = 11;
+            this.label1.Text = "IP Address";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(330, 155);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.SetProgramButton);
             this.Controls.Add(this.LoadProgramButton);
             this.Controls.Add(this.AutoButton);
@@ -185,6 +195,7 @@
         private System.Windows.Forms.Button AutoButton;
         private System.Windows.Forms.Button LoadProgramButton;
         private System.Windows.Forms.Button SetProgramButton;
+        private System.Windows.Forms.Label label1;
     }
 }
 
